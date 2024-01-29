@@ -105,7 +105,8 @@ certifications:
           credentialid: W93YXMVMVTQZ
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/W93YXMVMVTQZ
           credentialname: Coursera
-          details: |
+          details: | 
+              - Formation about how to use chatgpt.
         - name: Machine Learning Intermediate with Python 
           start: 2022
           end: 2022
@@ -114,6 +115,7 @@ certifications:
           credentialurl: https://app.dataquest.io/view_cert/NIETB4VW3PWUDOSEG1OU
           credentialname: Dataquest
           details: |
+              - Formation about how to use chatgpt.
           - name: Data Scientist with Python 
           start: 2022
           end: 2022
@@ -122,6 +124,7 @@ certifications:
           credentialurl: https://app.dataquest.io/view_cert/2F0MU3UYD3IIHO4BS9H4
           credentialname: Dataquest
           details: |
+              - Formation about how to use chatgpt.
 
 projects:
     title: Volunteering
